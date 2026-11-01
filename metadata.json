@@ -1,0 +1,6 @@
+{
+  "name": "SketchBoard - Collaborative Whiteboard",
+  "description": "Real-time collaborative hand-drawn whiteboard with pen, shapes, sticky notes, image pasting, live multiplayer presence, version history with named releases, and PDF/PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
